@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033430786056",
+    "project_id": "dhomketuecomerceapp",
+    "storage_bucket": "dhomketuecomerceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033430786056:android:9dd8e335709cad9994b1bd",
+        "android_client_info": {
+          "package_name": "com.example.dhomketu_ecommerce_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033430786056-0k12josefcd1mqc2vdntuivkdc46d4p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNHkkcMAXl3WNSRoLZfyLTJXBwRc4te_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033430786056-0k12josefcd1mqc2vdntuivkdc46d4p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
